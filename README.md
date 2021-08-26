@@ -1,2 +1,3 @@
 # devops-netology
-My education devops project
+Education devops project.
+My name is Ivan and this is my netology education course.
